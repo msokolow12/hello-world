@@ -11,3 +11,4 @@ So if I type text here, does it show up in GitHub?
 | Grape      | 4/5       |
 Strawberry    | 5/5       |
 Text goes here
+If I add more text here, then will the commit show up again? One way to find out!
